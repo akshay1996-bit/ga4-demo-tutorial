@@ -9,6 +9,7 @@ function App() {
         <Route exact path='/' element={<Login />}></Route>
         <Route exact path='home' element={<Home />} ></Route>
       </Routes>
+      v1
     </>
   )
 }
